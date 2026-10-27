@@ -1,0 +1,18 @@
+# Dataset: download with download_data.py, then run preprocess.py
+# (opportunity.npz is 123 MB, over GitHub's 100 MB file limit)
+data/
+
+# Model checkpoints (~15 MB each, ~210 MB in total); evaluate.py needs these,
+# so keep them locally or on Google Drive
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store

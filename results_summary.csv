@@ -1,0 +1,15 @@
+run,config,model,task,null,sensors,window,n_conv,params,best_epoch,train_min,test_F1_weighted,test_F1_macro,test_acc
+A_cnn_s0,A_cnn,cnn,gestures,True,all,24,4,7486546,31,28.3,0.8577,0.412,0.8712
+A_gru_s0,A_gru,deepconvlstm,gestures,True,all,24,4,2990418,26,27.0,0.8958,0.6052,0.8959
+B_conv1_s0,B_conv1,deepconvlstm,gestures,True,all,24,1,3904146,14,5.0,0.882,0.5439,0.8806
+B_conv2_s0,B_conv2,deepconvlstm,gestures,True,all,24,2,3924690,28,11.2,0.8944,0.6134,0.896
+C_w20_s0,C_w20,deepconvlstm,gestures,True,all,20,4,3965778,77,48.4,0.8905,0.5841,0.893
+C_w60_s0,C_w60,deepconvlstm,gestures,True,all,60,4,3965778,37,63.6,0.8927,0.6248,0.89
+D_full_s0,D_full,deepconvlstm,gestures,True,all,24,4,3965778,35,35.6,0.8862,0.5589,0.8867
+D_noaug_s0,D_noaug,deepconvlstm,gestures,True,all,24,4,3965778,58,50.1,0.8809,0.569,0.8789
+D_nodrop_s0,D_nodrop,deepconvlstm,gestures,True,all,24,4,3965778,24,28.5,0.8807,0.5588,0.8844
+D_nowd_s0,D_nowd,deepconvlstm,gestures,True,all,24,4,3965778,49,44.6,0.8886,0.571,0.8897
+E_lr3e-3_s0,E_lr3e-3,deepconvlstm,gestures,True,all,24,4,3965778,1,13.3,0.7566,0.0505,0.8327
+E_lr3e-3_warmup_s0,E_lr3e-3_warmup,deepconvlstm,gestures,True,all,24,4,3965778,6,16.5,0.8435,0.3467,0.8567
+F_focal_s0,F_focal,deepconvlstm,gestures,True,all,24,4,3965778,30,32.3,0.8772,0.5051,0.874
+ref_s0,ref,deepconvlstm,gestures,True,all,24,4,3965778,38,34.7,0.8873,0.573,0.8856

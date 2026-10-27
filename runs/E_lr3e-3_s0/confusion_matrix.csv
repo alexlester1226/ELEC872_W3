@@ -1,0 +1,19 @@
+,Null,Open Door 1,Open Door 2,Close Door 1,Close Door 2,Open Fridge,Close Fridge,Open Dishwasher,Close Dishwasher,Open Drawer 1,Close Drawer 1,Open Drawer 2,Close Drawer 2,Open Drawer 3,Close Drawer 3,Clean Table,Drink from Cup,Toggle Switch
+Null,8235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Door 1,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Door 2,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Door 1,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Door 2,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Fridge,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Fridge,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Dishwasher,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Dishwasher,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Drawer 1,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Drawer 1,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Drawer 2,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Drawer 2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Drawer 3,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Drawer 3,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clean Table,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drink from Cup,318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toggle Switch,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
